@@ -1,1 +1,0 @@
-<script src="script/bootstrap.bundle.min.js"></script>
